@@ -99,7 +99,7 @@ body {
 .progress {
     height: 100%;
     border-radius: inherit;
-    background: linear-gradient(90deg, #ff9800 0%, #a78bfa 100%);
+    background-color: #22223b;
     width: 0%;
     transition: width 0.2s;
     box-shadow: 0 1px 6px #ff980033;
